@@ -159,6 +159,10 @@ def multiply_pairs(num):
     return x_y_list
 
 
+def taemp():
+    print("hello")
+
+
 if __name__ == "__main__":
     var = input("Введіть варіант: ")
     if var == '1':
