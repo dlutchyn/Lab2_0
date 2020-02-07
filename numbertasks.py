@@ -161,6 +161,7 @@ def multiply_pairs(num):
 
 def taemp():
     print("hello")
+    print("hi!")
 
 
 if __name__ == "__main__":
