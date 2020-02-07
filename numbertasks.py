@@ -159,9 +159,12 @@ def multiply_pairs(num):
     return x_y_list
 
 
-def taemp():
+def tamp():
     print("hello")
     print("hi!")
+
+
+print("goodbye")
 
 
 if __name__ == "__main__":
